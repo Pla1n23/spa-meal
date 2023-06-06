@@ -31,7 +31,7 @@ function App() {
               <Route path="*" element={<NoMatch />} />
               <Route path="/" element={<Home />} />
               <Route path="contact/" element={<Contact />} />
-              <Route path="about/" element={<About />} />\
+              <Route path="about/" element={<About />} />
               <Route path="category/:name" element={<Category />} />
               <Route path="meal/:id" element={<Recipe />} />
             </Routes>
