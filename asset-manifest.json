@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spa-meal/static/css/main.f407d059.css",
+    "main.js": "/spa-meal/static/js/main.1ebdf5b8.js",
+    "index.html": "/spa-meal/index.html",
+    "main.f407d059.css.map": "/spa-meal/static/css/main.f407d059.css.map",
+    "main.1ebdf5b8.js.map": "/spa-meal/static/js/main.1ebdf5b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f407d059.css",
+    "static/js/main.1ebdf5b8.js"
+  ]
+}
