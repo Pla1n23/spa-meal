@@ -24,7 +24,7 @@ function NoMatch() {
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/spa-meal">
         <Header />
           <main className="container content">
             <Routes>
